@@ -1,9 +1,9 @@
-# Custom Theme for Home Assistant
+# Zenith for Home Assistant
 # Version: 0.0.1
 # Author: Tyler Hasenoehrl
 # Description: A modern and elegant theme with dark and light variants
 
-Custom Theme:
+Zenith Light:
   # Main Interface Colors
   primary-color: "#3498db"
   accent-color: "#e74c3c"
@@ -71,7 +71,7 @@ Custom Theme:
   # Lovelace Styling
   lovelace-background: "var(--primary-background-color)"
   
-Custom Theme Dark:
+Zenith Dark:
   # Main Interface Colors
   primary-color: "#3498db"
   accent-color: "#e74c3c"

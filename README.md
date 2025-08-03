@@ -1,6 +1,6 @@
-# Zenit Home Assistant Theme
+# Zenith Home Assistant Theme
 
-A beautiful and modern theme for Home Assistant.
+A modern theme for Home Assistant.
 
 ## Features
 
@@ -18,7 +18,7 @@ This theme can be installed via HACS (Home Assistant Community Store).
 1. Make sure you have [HACS](https://hacs.xyz/) installed
 2. Go to HACS → Frontend
 3. Click the "+" button
-4. Search for "Custom Home Assistant Theme"
+4. Search for "Zenith"
 5. Install the theme
 6. Restart Home Assistant
 
