@@ -1,0 +1,7 @@
+{
+  "name": "Zenith",
+  "content_in_root": false,
+  "filename": "custom_theme.yaml",
+  "render_readme": true,
+  "homeassistant": "0.115.0"
+}

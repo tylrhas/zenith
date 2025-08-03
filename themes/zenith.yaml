@@ -1,0 +1,140 @@
+# Custom Theme for Home Assistant
+# Version: 0.0.1
+# Author: Tyler Hasenoehrl
+# Description: A modern and elegant theme with dark and light variants
+
+Custom Theme:
+  # Main Interface Colors
+  primary-color: "#3498db"
+  accent-color: "#e74c3c"
+  dark-primary-color: "#2980b9"
+  light-primary-color: "#85c1e9"
+  
+  # Text Colors
+  primary-text-color: "#212121"
+  secondary-text-color: "#757575"
+  disabled-text-color: "#bdbdbd"
+  
+  # Background Colors
+  primary-background-color: "#fafafa"
+  secondary-background-color: "#ffffff"
+  divider-color: "#e0e0e0"
+  
+  # Card Colors
+  card-background-color: "#ffffff"
+  paper-card-background-color: "#ffffff"
+  
+  # State Colors
+  state-icon-color: "#44739e"
+  state-icon-active-color: "#ffc107"
+  state-icon-unavailable-color: "#bdbdbd"
+  
+  # Sidebar
+  sidebar-background-color: "#ffffff"
+  sidebar-icon-color: "#44739e"
+  sidebar-text-color: "#212121"
+  sidebar-selected-background-color: "#e3f2fd"
+  sidebar-selected-icon-color: "#3498db"
+  sidebar-selected-text-color: "#3498db"
+  
+  # Header
+  app-header-background-color: "#3498db"
+  app-header-text-color: "#ffffff"
+  
+  # Switches
+  switch-unchecked-button-color: "#ffffff"
+  switch-unchecked-track-color: "#9e9e9e"
+  switch-checked-button-color: "#ffffff"
+  switch-checked-track-color: "#3498db"
+  
+  # Sliders
+  slider-color: "#3498db"
+  slider-secondary-color: "#e0e0e0"
+  
+  # Tables
+  table-row-background-color: "#ffffff"
+  table-row-alternative-background-color: "#f5f5f5"
+  
+  # Input Fields
+  input-ink-color: "#3498db"
+  input-label-ink-color: "#757575"
+  input-disabled-ink-color: "#bdbdbd"
+  
+  # Paper Elements
+  paper-grey-50: "#fafafa"
+  paper-grey-200: "#eeeeee"
+  
+  # Custom Card Styling
+  ha-card-border-radius: "12px"
+  ha-card-box-shadow: "0 2px 8px rgba(0,0,0,0.1)"
+  
+  # Lovelace Styling
+  lovelace-background: "var(--primary-background-color)"
+  
+Custom Theme Dark:
+  # Main Interface Colors
+  primary-color: "#3498db"
+  accent-color: "#e74c3c"
+  dark-primary-color: "#2980b9"
+  light-primary-color: "#85c1e9"
+  
+  # Text Colors
+  primary-text-color: "#ffffff"
+  secondary-text-color: "#b3b3b3"
+  disabled-text-color: "#6f6f6f"
+  
+  # Background Colors
+  primary-background-color: "#121212"
+  secondary-background-color: "#1e1e1e"
+  divider-color: "#333333"
+  
+  # Card Colors
+  card-background-color: "#1e1e1e"
+  paper-card-background-color: "#1e1e1e"
+  
+  # State Colors
+  state-icon-color: "#85c1e9"
+  state-icon-active-color: "#ffc107"
+  state-icon-unavailable-color: "#6f6f6f"
+  
+  # Sidebar
+  sidebar-background-color: "#1e1e1e"
+  sidebar-icon-color: "#85c1e9"
+  sidebar-text-color: "#ffffff"
+  sidebar-selected-background-color: "#2c3e50"
+  sidebar-selected-icon-color: "#3498db"
+  sidebar-selected-text-color: "#3498db"
+  
+  # Header
+  app-header-background-color: "#2c3e50"
+  app-header-text-color: "#ffffff"
+  
+  # Switches
+  switch-unchecked-button-color: "#6f6f6f"
+  switch-unchecked-track-color: "#333333"
+  switch-checked-button-color: "#ffffff"
+  switch-checked-track-color: "#3498db"
+  
+  # Sliders
+  slider-color: "#3498db"
+  slider-secondary-color: "#333333"
+  
+  # Tables
+  table-row-background-color: "#1e1e1e"
+  table-row-alternative-background-color: "#252525"
+  
+  # Input Fields
+  input-ink-color: "#3498db"
+  input-label-ink-color: "#b3b3b3"
+  input-disabled-ink-color: "#6f6f6f"
+  
+  # Paper Elements
+  paper-grey-50: "#121212"
+  paper-grey-200: "#333333"
+  
+  # Custom Card Styling
+  ha-card-border-radius: "12px"
+  ha-card-box-shadow: "0 2px 8px rgba(0,0,0,0.3)"
+  
+  # Lovelace Styling
+  lovelace-background: "var(--primary-background-color)"
